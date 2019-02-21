@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: WindowsApplication2, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(3616,5): error MSB3482: An error occurred while signing: SignTool.exe was not found at path C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\signtool.exe.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

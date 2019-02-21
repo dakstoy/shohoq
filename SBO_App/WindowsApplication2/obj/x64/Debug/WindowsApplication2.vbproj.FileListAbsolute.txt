@@ -1,0 +1,331 @@
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.exe.config
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\cef.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\cef_100_percent.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\cef_200_percent.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\cef_extensions.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\chrome_elf.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\d3dcompiler_47.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\devtools_resources.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\icudtl.dat
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\libcef.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\libEGL.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\libGLESv2.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\am.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ar.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\bg.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\bn.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ca.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\cs.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\da.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\de.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\el.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\en-GB.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\en-US.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\es-419.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\es.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\et.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fa.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fi.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fil.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fr.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\gu.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\he.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\hi.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\hr.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\hu.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\id.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\it.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ja.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\kn.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ko.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\lt.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\lv.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ml.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\mr.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ms.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\nb.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\nl.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\pl.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\pt-BR.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\pt-PT.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ro.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ru.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sk.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sl.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sr.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sv.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sw.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ta.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\te.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\th.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\tr.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\uk.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\vi.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\zh-CN.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\locales\zh-TW.pak
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\natives_blob.bin
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\snapshot_blob.bin
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\swiftshader\libEGL.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\swiftshader\libGLESv2.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\v8_context_snapshot.bin
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\widevinecdmadapter.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.exe
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.pdb
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.Core.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.Core.pdb
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.Core.xml
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.pdb
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.XML
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.WinForms.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.WinForms.pdb
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.WinForms.XML
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.exe.manifest
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.application
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.exe
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.pdb
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.xml
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\WebKitBrowser.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\WebKit.Interop.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\bin\x64\Debug\stdole.dll
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form1.resources
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form2.resources
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form3.resources
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form4.resources
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form5.resources
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form6.resources
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form7.resources
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form8.resources
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form9.resources
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Resources.resources
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.exe.manifest
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.application
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.exe
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.xml
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.pdb
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Best_Player.resources
+C:\Users\Admin\Desktop\VB Projects\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.WinForms.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\chrome_elf.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\libcef.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.Core.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.Core.pdb
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.Core.xml
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.pdb
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.XML
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.WinForms.pdb
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.WinForms.XML
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\cef.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\cef_100_percent.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\cef_200_percent.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\cef_extensions.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\d3dcompiler_47.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\devtools_resources.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\icudtl.dat
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\libEGL.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\libGLESv2.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\am.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ar.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\bg.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\bn.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ca.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\cs.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\da.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\de.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\el.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\en-GB.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\en-US.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\es-419.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\es.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\et.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fa.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fi.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fil.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fr.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\gu.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\he.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\hi.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\hr.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\hu.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\id.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\it.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ja.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\kn.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ko.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\lt.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\lv.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ml.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\mr.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ms.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\nb.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\nl.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\pl.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\pt-BR.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\pt-PT.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ro.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ru.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sk.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sl.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sr.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sv.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sw.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ta.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\te.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\th.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\tr.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\uk.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\vi.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\zh-CN.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\locales\zh-TW.pak
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\natives_blob.bin
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\snapshot_blob.bin
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\swiftshader\libEGL.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\swiftshader\libGLESv2.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\v8_context_snapshot.bin
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\widevinecdmadapter.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.exe
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.pdb
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\x64 - Shortcut.lnk
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.exe.config
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.exe.manifest
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.application
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.exe
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.pdb
+D:\git\shohoq\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.xml
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\Interop.WMPLib.dll
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Best_Player.resources
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form1.resources
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form2.resources
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form3.resources
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form4.resources
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form5.resources
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form6.resources
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form7.resources
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form8.resources
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form9.resources
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Resources.resources
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.exe.manifest
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.application
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.exe
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.xml
+D:\git\shohoq\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.pdb
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\Interop.VBIDE.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\Interop.WMPLib.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Best_Player.resources
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form1.resources
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form2.resources
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form3.resources
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form4.resources
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form5.resources
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form6.resources
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form7.resources
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form8.resources
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Form9.resources
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.exe
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.xml
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.pdb
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\cef.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\cef_100_percent.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\cef_200_percent.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\cef_extensions.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\chrome_elf.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\d3dcompiler_47.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\devtools_resources.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\icudtl.dat
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\libcef.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\libEGL.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\libGLESv2.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\am.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ar.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\bg.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\bn.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ca.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\cs.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\da.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\de.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\el.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\en-GB.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\en-US.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\es-419.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\es.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\et.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fa.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fi.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fil.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\fr.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\gu.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\he.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\hi.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\hr.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\hu.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\id.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\it.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ja.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\kn.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ko.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\lt.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\lv.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ml.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\mr.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ms.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\nb.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\nl.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\pl.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\pt-BR.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\pt-PT.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ro.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ru.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sk.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sl.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sr.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sv.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\sw.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\ta.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\te.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\th.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\tr.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\uk.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\vi.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\zh-CN.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\locales\zh-TW.pak
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\natives_blob.bin
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\snapshot_blob.bin
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\swiftshader\libEGL.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\swiftshader\libGLESv2.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\v8_context_snapshot.bin
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\widevinecdmadapter.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.Core.pdb
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.exe
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.BrowserSubprocess.pdb
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.Core.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.Core.pdb
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.Core.xml
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.pdb
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.XML
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.WinForms.dll
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.WinForms.pdb
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\CefSharp.WinForms.XML
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\x64 - Shortcut.lnk
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.exe.config
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.exe.manifest
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.application
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.exe
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.pdb
+F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.xml
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Resources.resources
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.exe.manifest
+F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.application

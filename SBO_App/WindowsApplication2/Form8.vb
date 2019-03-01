@@ -57,6 +57,7 @@ Public Class Form8
             Form9.Label4.Visible = False
             Form9.Label11.Visible = False
             Form9.Label16.Visible = False
+            Form9.PictureBox20.Visible = False
 
             xlApp = New Excel.Application
             xlApp.DisplayAlerts = False

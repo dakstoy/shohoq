@@ -293,6 +293,7 @@
   <ItemGroup>
     <Content Include="2018-02-20_02h53_58_131635400472329200.ico" />
     <Content Include="Kyo-Tux-Phuzion-Misc-Games.ico" />
+    <None Include="Resources\2019-03-01_20h15_03.png" />
     <None Include="Resources\old_logo.png" />
     <None Include="Resources\blip_commercial.jpg" />
     <None Include="Resources\Blip2.png" />

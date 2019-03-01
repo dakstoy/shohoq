@@ -674,6 +674,7 @@ Ending:
             Form9.Label4.Visible = False
             Form9.Label11.Visible = False
             Form9.Label16.Visible = False
+            Form9.PictureBox20.Visible = False
 
         End If
 
@@ -1289,6 +1290,7 @@ Ending:
         Form9.PictureBox18.Visible = False
         Form9.Label4.Visible = False
         Form9.Label11.Visible = False
+        Form9.PictureBox20.Visible = False
 
         music(“close myDevice”, Nothing, 0, 0)
         Form6.Timer2.Enabled = False

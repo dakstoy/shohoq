@@ -421,6 +421,7 @@ Public Class Form6
             Form9.PictureBox18.Visible = True
             Form9.Label4.Visible = True
             Form9.Label11.Visible = True
+            Form9.PictureBox20.Visible = True
 
             Dim FileName As String
             Dim a As Integer
@@ -449,6 +450,7 @@ Public Class Form6
             Form9.PictureBox18.Visible = False
             Form9.Label4.Visible = False
             Form9.Label11.Visible = False
+            Form9.PictureBox20.Visible = False
 
             Label6.Text = AddZero(Form3.NumericUpDown1.Value) & ":" & AddZero(Form3.NumericUpDown2.Value)
             totaltime3 = 121

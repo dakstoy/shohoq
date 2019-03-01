@@ -28233,3 +28233,117 @@ C:\fakepath(94,10-42): warning X3571: pow(f, e) will not work for negative f, us
 [0301/194320.044:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
 [0301/194322.106:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
 [0301/194322.106:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0301/201712.805:INFO:CONSOLE(8)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://s2.wp.com/_static/??-eJyF0MEKwjAMBuAXsqs6e/AgPkutcaSuaW1Shz69FSYiVIVADvkgf6KnpJDcWI7A2te6FMi3uXWeF/oXUAGHbAW6gPTCLpIAydOmyBKA2Q7QmIZ4wBFUYcgVkNQ1p9hwn5GQrgjTX+ZBknVnlYHxDq1DOL0zf//ArPZhtzJmud5s+974B7Nvcvg= (8)
+[0301/201720.764:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0301/201721.368:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0301/201723.843:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/201723.843:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/201723.942:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/201723.943:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/201724.508:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/201724.508:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/201724.511:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/201724.511:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/201736.339:INFO:CONSOLE(8)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://s2.wp.com/_static/??-eJyF0MEKwjAMBuAXsqs6e/AgPkutcaSuaW1Shz69FSYiVIVADvkgf6KnpJDcWI7A2te6FMi3uXWeF/oXUAGHbAW6gPTCLpIAydOmyBKA2Q7QmIZ4wBFUYcgVkNQ1p9hwn5GQrgjTX+ZBknVnlYHxDq1DOL0zf//ArPZhtzJmud5s+974B7Nvcvg= (8)
+[0301/201737.378:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0301/201737.379:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0301/201738.613:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/201738.613:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/201738.623:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/201738.623:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/201738.628:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/201738.628:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/201738.631:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/201738.631:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/210832.712:INFO:CONSOLE(8)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://s2.wp.com/_static/??-eJyF0MEKwjAMBuAXsqs6e/AgPkutcaSuaW1Shz69FSYiVIVADvkgf6KnpJDcWI7A2te6FMi3uXWeF/oXUAGHbAW6gPTCLpIAydOmyBKA2Q7QmIZ4wBFUYcgVkNQ1p9hwn5GQrgjTX+ZBknVnlYHxDq1DOL0zf//ArPZhtzJmud5s+974B7Nvcvg= (8)
+[0301/210832.725:INFO:CONSOLE(8)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://s2.wp.com/_static/??-eJyF0MEKwjAMBuAXsqs6e/AgPkutcaSuaW1Shz69FSYiVIVADvkgf6KnpJDcWI7A2te6FMi3uXWeF/oXUAGHbAW6gPTCLpIAydOmyBKA2Q7QmIZ4wBFUYcgVkNQ1p9hwn5GQrgjTX+ZBknVnlYHxDq1DOL0zf//ArPZhtzJmud5s+974B7Nvcvg= (8)
+[0301/210834.681:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/210834.681:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/210834.691:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/210834.691:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/210834.696:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/210834.696:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/210834.696:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/210834.696:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/210835.607:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/210835.607:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/210835.636:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/210835.636:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/210835.646:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/210835.646:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/210835.652:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/210835.652:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/210836.109:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0301/210836.180:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0301/210836.908:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0301/210836.908:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0301/211102.550:INFO:CONSOLE(8)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://s2.wp.com/_static/??-eJyF0MEKwjAMBuAXsqs6e/AgPkutcaSuaW1Shz69FSYiVIVADvkgf6KnpJDcWI7A2te6FMi3uXWeF/oXUAGHbAW6gPTCLpIAydOmyBKA2Q7QmIZ4wBFUYcgVkNQ1p9hwn5GQrgjTX+ZBknVnlYHxDq1DOL0zf//ArPZhtzJmud5s+974B7Nvcvg= (8)
+[0301/211104.678:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0301/211104.685:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0301/211105.703:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211105.703:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211105.714:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211105.714:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211105.726:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211105.726:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211105.727:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211105.727:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211110.640:INFO:CONSOLE(8)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://s2.wp.com/_static/??-eJyF0MEKwjAMBuAXsqs6e/AgPkutcaSuaW1Shz69FSYiVIVADvkgf6KnpJDcWI7A2te6FMi3uXWeF/oXUAGHbAW6gPTCLpIAydOmyBKA2Q7QmIZ4wBFUYcgVkNQ1p9hwn5GQrgjTX+ZBknVnlYHxDq1DOL0zf//ArPZhtzJmud5s+974B7Nvcvg= (8)
+[0301/211111.229:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0301/211111.230:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0301/211111.278:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 3
+[0301/211112.550:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211112.550:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211112.558:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211112.558:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211112.568:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211112.568:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211112.574:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211112.574:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211822.439:INFO:CONSOLE(8)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://s2.wp.com/_static/??-eJyF0MEKwjAMBuAXsqs6e/AgPkutcaSuaW1Shz69FSYiVIVADvkgf6KnpJDcWI7A2te6FMi3uXWeF/oXUAGHbAW6gPTCLpIAydOmyBKA2Q7QmIZ4wBFUYcgVkNQ1p9hwn5GQrgjTX+ZBknVnlYHxDq1DOL0zf//ArPZhtzJmud5s+974B7Nvcvg= (8)
+[0301/211824.722:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211824.722:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211824.727:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211824.727:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211824.780:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211824.780:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211824.780:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211824.780:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211825.038:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0301/211825.045:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0301/211830.487:INFO:CONSOLE(8)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://s2.wp.com/_static/??-eJyF0MEKwjAMBuAXsqs6e/AgPkutcaSuaW1Shz69FSYiVIVADvkgf6KnpJDcWI7A2te6FMi3uXWeF/oXUAGHbAW6gPTCLpIAydOmyBKA2Q7QmIZ4wBFUYcgVkNQ1p9hwn5GQrgjTX+ZBknVnlYHxDq1DOL0zf//ArPZhtzJmud5s+974B7Nvcvg= (8)
+[0301/211831.294:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0301/211831.310:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0301/211832.620:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211832.620:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211832.637:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211832.637:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211832.643:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211832.643:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211832.649:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/211832.649:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/211920.767:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0301/232239.848:INFO:CONSOLE(8)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://s2.wp.com/_static/??-eJyF0MEKwjAMBuAXsqs6e/AgPkutcaSuaW1Shz69FSYiVIVADvkgf6KnpJDcWI7A2te6FMi3uXWeF/oXUAGHbAW6gPTCLpIAydOmyBKA2Q7QmIZ4wBFUYcgVkNQ1p9hwn5GQrgjTX+ZBknVnlYHxDq1DOL0zf//ArPZhtzJmud5s+974B7Nvcvg= (8)
+[0301/232242.123:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0301/232242.124:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0301/232242.617:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/232242.617:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/232242.626:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/232242.626:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/232242.633:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/232242.633:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/232242.633:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/232242.633:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/232247.752:INFO:CONSOLE(8)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: https://s2.wp.com/_static/??-eJyF0MEKwjAMBuAXsqs6e/AgPkutcaSuaW1Shz69FSYiVIVADvkgf6KnpJDcWI7A2te6FMi3uXWeF/oXUAGHbAW6gPTCLpIAydOmyBKA2Q7QmIZ4wBFUYcgVkNQ1p9hwn5GQrgjTX+ZBknVnlYHxDq1DOL0zf//ArPZhtzJmud5s+974B7Nvcvg= (8)
+[0301/232248.333:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0301/232248.334:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0301/232248.416:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 3
+[0301/232249.597:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/232249.598:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/232249.605:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/232249.605:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/232249.712:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/232249.713:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/232249.713:WARNING:extension_protocols.cc(477)] Failed to GetPathForExtension: invalid
+[0301/232249.713:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0301/232712.814:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1

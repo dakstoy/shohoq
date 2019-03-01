@@ -35,6 +35,7 @@ Public Class Form1
     Dim sign1 As String
     Dim gameformat = VB.Left(Form3.ComboBox3.Text, 1)
     Private stopwatch As New Stopwatch
+    Dim commercial As Integer
 
 
     Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
@@ -51,6 +52,27 @@ Public Class Form1
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
 
+        Form9.PictureBox10.Visible = True
+        Form9.PictureBox10.Image = My.Resources.timeoutlogo
+
+        commercial = random.Next(1, 4)
+
+        Select Case commercial
+            Case 1
+
+                Form9.PictureBox19.Image = My.Resources._2019_02_21_10h09_58
+
+            Case 2
+
+                Form9.PictureBox19.Image = My.Resources.KCS_Commercial
+
+            Case 3
+
+                Form9.PictureBox19.Image = My.Resources.blip_commercial
+
+        End Select
+
+        Form9.PictureBox19.Visible = True
         mins2 = Form3.NumericUpDown3.Value
         secs2 = Form3.NumericUpDown4.Value
 
@@ -88,35 +110,50 @@ Public Class Form1
         'Form3.NumericUpDown5.Value = mins
         'Form3.NumericUpDown6.Value = secs
 
-        If secs2 = 25 Then
+        Select Case commercial
 
-            Form9.PictureBox19.Image = My.Resources.CS1
+            Case 1
 
-        End If
+                If secs2 = 25 Then
 
-        If secs2 = 20 Then
+                    Form9.PictureBox19.Image = My.Resources.CS1
 
-            Form9.PictureBox19.Image = My.Resources.CS2
+                End If
 
-        End If
+                If secs2 = 20 Then
 
-        If secs2 = 15 Then
+                    Form9.PictureBox19.Image = My.Resources.CS2
 
-            Form9.PictureBox19.Image = My.Resources.CS3
+                End If
 
-        End If
+                If secs2 = 15 Then
 
-        If secs2 = 10 Then
+                    Form9.PictureBox19.Image = My.Resources.CS3
 
-            Form9.PictureBox19.Image = My.Resources.CS4
+                End If
 
-        End If
+                If secs2 = 10 Then
 
-        If secs2 = 5 Then
+                    Form9.PictureBox19.Image = My.Resources.CS4
 
-            Form9.PictureBox19.Image = My.Resources.CS5
+                End If
 
-        End If
+                If secs2 = 5 Then
+
+                    Form9.PictureBox19.Image = My.Resources.CS5
+
+                End If
+
+            Case 2
+
+                Form9.PictureBox19.Image = My.Resources.KCS_Commercial
+
+            Case 3
+
+                Form9.PictureBox19.Image = My.Resources.blip_commercial
+
+        End Select
+
 
         If secs2 = 1 Then
 
@@ -127,11 +164,6 @@ Public Class Form1
         End If
 
         If secs2 = 30 Then
-
-            Form9.PictureBox10.Visible = True
-            Form9.PictureBox19.Visible = True
-            Form9.PictureBox10.Image = My.Resources.timeoutlogo
-            Form9.PictureBox19.Image = My.Resources._2019_02_21_10h09_58
 
             Dim FileName As String
             Dim a As Integer
@@ -209,6 +241,28 @@ Ending:
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
 
+        Form9.PictureBox10.Visible = True
+        Form9.PictureBox10.Image = My.Resources.timeoutlogo
+
+        commercial = random.Next(1, 4)
+
+        Select Case commercial
+
+            Case 1
+
+                Form9.PictureBox19.Image = My.Resources._2019_02_21_10h09_58
+
+            Case 2
+
+                Form9.PictureBox19.Image = My.Resources.KCS_Commercial
+
+            Case 3
+
+                Form9.PictureBox19.Image = My.Resources.blip_commercial
+
+        End Select
+
+        Form9.PictureBox19.Visible = True
         mins3 = Form3.NumericUpDown3.Value
         secs3 = Form3.NumericUpDown4.Value
 
@@ -244,35 +298,50 @@ Ending:
 
         On Error Resume Next
 
-        If secs3 = 25 Then
+        Select Case commercial
 
-            Form9.PictureBox19.Image = My.Resources.CS1
+            Case 1
 
-        End If
+                If secs3 = 25 Then
 
-        If secs3 = 20 Then
+                    Form9.PictureBox19.Image = My.Resources.CS1
 
-            Form9.PictureBox19.Image = My.Resources.CS2
+                End If
 
-        End If
+                If secs3 = 20 Then
 
-        If secs3 = 15 Then
+                    Form9.PictureBox19.Image = My.Resources.CS2
 
-            Form9.PictureBox19.Image = My.Resources.CS3
+                End If
 
-        End If
+                If secs3 = 15 Then
 
-        If secs3 = 10 Then
+                    Form9.PictureBox19.Image = My.Resources.CS3
 
-            Form9.PictureBox19.Image = My.Resources.CS4
+                End If
 
-        End If
+                If secs3 = 10 Then
 
-        If secs3 = 5 Then
+                    Form9.PictureBox19.Image = My.Resources.CS4
 
-            Form9.PictureBox19.Image = My.Resources.CS5
+                End If
 
-        End If
+                If secs3 = 5 Then
+
+                    Form9.PictureBox19.Image = My.Resources.CS5
+
+                End If
+
+            Case 2
+
+                Form9.PictureBox19.Image = My.Resources.KCS_Commercial
+
+            Case 3
+
+                Form9.PictureBox19.Image = My.Resources.blip_commercial
+
+        End Select
+
 
         If secs3 = 1 Then
 
@@ -283,11 +352,6 @@ Ending:
         End If
 
         If secs3 = 30 Then
-
-            Form9.PictureBox10.Visible = True
-            Form9.PictureBox10.Image = My.Resources.timeoutlogo
-            Form9.PictureBox19.Visible = True
-            Form9.PictureBox19.Image = My.Resources._2019_02_21_10h09_58
 
             Dim FileName As String
             Dim a As Integer
@@ -609,6 +673,7 @@ Ending:
             Form9.PictureBox18.Visible = False
             Form9.Label4.Visible = False
             Form9.Label11.Visible = False
+            Form9.Label16.Visible = False
 
         End If
 
@@ -807,7 +872,6 @@ Ending:
         Form9.Label4.Visible = True
         Form9.Label11.Visible = True
 
-
         If Form9.PictureBox10.Visible = True Then
 
         Else
@@ -838,11 +902,11 @@ Ending:
 
         ElseIf totaltime4 = 31 Then
 
-            Form9.PictureBox10.Image = My.Resources.aplus
+            Form9.PictureBox10.Image = My.Resources.KCS
 
         ElseIf totaltime4 = 25 Then
 
-            Form9.PictureBox10.Image = My.Resources.sugbokickz
+            Form9.PictureBox10.Image = My.Resources.Blip2
 
         ElseIf totaltime4 = 19 Then
 
@@ -906,6 +970,7 @@ Ending:
             Form9.PictureBox18.Visible = False
             Form9.Label4.Visible = False
             Form9.Label11.Visible = False
+            Form9.Label16.Visible = False
 
             Timer5.Enabled = False
             totaltime4 = 59
@@ -1002,11 +1067,11 @@ Ending:
 
         ElseIf secs4 = 31 Then
 
-            Form9.PictureBox10.Image = My.Resources.aplus
+            Form9.PictureBox10.Image = My.Resources.KCS
 
         ElseIf secs4 = 25 Then
 
-            Form9.PictureBox10.Image = My.Resources.sugbokickz
+            Form9.PictureBox10.Image = My.Resources.Blip2
 
         ElseIf secs4 = 19 Then
 
@@ -1042,6 +1107,7 @@ Ending:
             Form9.PictureBox18.Visible = False
             Form9.Label4.Visible = False
             Form9.Label11.Visible = False
+            Form9.Label16.Visible = False
 
             Timer6.Enabled = False
 
@@ -1207,9 +1273,12 @@ Ending:
 
     Private Sub Button23_Click(sender As Object, e As EventArgs) Handles Button23.Click
 
+        Form9.Label16.Visible = False
         Form9.Timer6.Stop()
         Form9.Panel6.Visible = False
         Form9.PictureBox10.Visible = False
+        Form9.PictureBox19.Visible = False
+        Form9.PictureBox9.Visible = True
         Form9.Panel1.Visible = True
         Form9.Panel2.Visible = True
         Form9.PictureBox17.Visible = False
@@ -1842,6 +1911,7 @@ Ending:
                     Focus()
 
                     Form9.PictureBox10.Visible = True
+                    Form9.Label16.Visible = True
                     Timer5.Enabled = True
                     'Timer6.Enabled = True
 

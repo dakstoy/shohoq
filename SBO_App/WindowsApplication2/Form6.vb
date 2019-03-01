@@ -388,11 +388,11 @@ Public Class Form6
 
         ElseIf totaltime3 = 31 Then
 
-            Form9.PictureBox10.Image = My.Resources.aplus
+            Form9.PictureBox10.Image = My.Resources.KCS
 
         ElseIf totaltime3 = 25 Then
 
-            Form9.PictureBox10.Image = My.Resources.sugbokickz
+            Form9.PictureBox10.Image = My.Resources.Blip2
 
         ElseIf totaltime3 = 19 Then
 

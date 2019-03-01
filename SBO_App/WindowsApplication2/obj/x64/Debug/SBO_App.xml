@@ -52,6 +52,21 @@ SBO_App
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:WindowsApplication2.My.Resources.Resources.Blip">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication2.My.Resources.Resources.blip_commercial">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication2.My.Resources.Resources.Blip2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:WindowsApplication2.My.Resources.Resources.Brazzers">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -128,6 +143,16 @@ SBO_App
 </summary>
 </member>
 <member name="P:WindowsApplication2.My.Resources.Resources.halftime">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication2.My.Resources.Resources.KCS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:WindowsApplication2.My.Resources.Resources.KCS_Commercial">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>

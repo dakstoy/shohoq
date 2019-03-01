@@ -122,6 +122,36 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property Blip() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Blip", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property blip_commercial() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("blip_commercial", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property Blip2() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Blip2", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property Brazzers() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Brazzers", resourceCulture)
@@ -275,6 +305,26 @@ Namespace My.Resources
         Friend ReadOnly Property halftime() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("halftime", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property KCS() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("KCS", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property KCS_Commercial() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("KCS_Commercial", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property

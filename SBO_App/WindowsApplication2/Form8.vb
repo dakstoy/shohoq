@@ -56,12 +56,13 @@ Public Class Form8
             Form9.PictureBox18.Visible = False
             Form9.Label4.Visible = False
             Form9.Label11.Visible = False
+            Form9.Label16.Visible = False
 
             xlApp = New Excel.Application
             xlApp.DisplayAlerts = False
 
             ' Open test Excel spreadsheet
-            xlWorkBook = xlApp.Workbooks.Open("C:\Users\Admin\Desktop\Dexter_Stuffs\Logs\Operator Per Game\Logs.xlsx")
+            xlWorkBook = xlApp.Workbooks.Open("F:\Extra Curricular\Logs\Logs.xlsx")
 
             'xlsWorkBook = xlsApp.ActiveWorkbook
             xlWorkSheet = xlWorkBook.Sheets("Logs")

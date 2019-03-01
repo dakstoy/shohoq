@@ -329,4 +329,3 @@ F:\shohoq-master\SBO_App\WindowsApplication2\bin\x64\Debug\SBO_App.xml
 F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.Resources.resources
 F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.exe.manifest
 F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\SBO_App.application
-F:\shohoq-master\SBO_App\WindowsApplication2\obj\x64\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache

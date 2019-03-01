@@ -871,6 +871,7 @@ Ending:
         Form9.PictureBox18.Visible = True
         Form9.Label4.Visible = True
         Form9.Label11.Visible = True
+        Form9.PictureBox20.Visible = True
 
         If Form9.PictureBox10.Visible = True Then
 
@@ -971,6 +972,7 @@ Ending:
             Form9.Label4.Visible = False
             Form9.Label11.Visible = False
             Form9.Label16.Visible = False
+            Form9.PictureBox20.Visible = False
 
             Timer5.Enabled = False
             totaltime4 = 59
@@ -1036,6 +1038,7 @@ Ending:
         Form9.Label4.Visible = True
         Form9.Label11.Visible = True
         Form9.PictureBox9.Visible = False
+        Form9.PictureBox20.Visible = True
 
         If Form9.PictureBox10.Visible = True Then
 
@@ -1108,6 +1111,7 @@ Ending:
             Form9.Label4.Visible = False
             Form9.Label11.Visible = False
             Form9.Label16.Visible = False
+            Form9.PictureBox20.Visible = False
 
             Timer6.Enabled = False
 
@@ -1894,6 +1898,7 @@ Ending:
                     Focus()
 
                     Form9.PictureBox10.Visible = True
+                    Form9.Label16.Visible = True
                     Timer5.Enabled = True
                     'Timer6.Enabled = True
 

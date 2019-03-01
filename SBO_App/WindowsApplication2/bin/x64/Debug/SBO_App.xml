@@ -182,6 +182,11 @@ SBO_App
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:WindowsApplication2.My.Resources.Resources.old_logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:WindowsApplication2.My.Resources.Resources.overtime">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.

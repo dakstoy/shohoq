@@ -328,10 +328,10 @@ Public Class Form9
 
     Private Sub Button8_Click(sender As Object, e As EventArgs) Handles Button8.Click
 
-        PictureBox9.Image = My.Resources.San_Remigio
+        PictureBox9.Image = My.Resources.Blip
         Label3.Text = "PLAYER OF THE GAME"
         PictureBox11.Visible = True
-        PictureBox11.Image = My.Resources.San_Remigio
+        PictureBox11.Image = My.Resources.Blip
         PictureBox13.Visible = False
 
     End Sub

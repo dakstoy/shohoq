@@ -45,6 +45,7 @@ Partial Class Form9
         Me.Panel3 = New System.Windows.Forms.Panel()
         Me.TabPage2 = New System.Windows.Forms.TabPage()
         Me.Panel4 = New System.Windows.Forms.Panel()
+        Me.Label16 = New System.Windows.Forms.Label()
         Me.Label11 = New System.Windows.Forms.Label()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.Panel6 = New System.Windows.Forms.Panel()
@@ -85,7 +86,7 @@ Partial Class Form9
         Me.PictureBox11 = New System.Windows.Forms.PictureBox()
         Me.PictureBox12 = New System.Windows.Forms.PictureBox()
         Me.PictureBox9 = New System.Windows.Forms.PictureBox()
-        Me.Label16 = New System.Windows.Forms.Label()
+        Me.PictureBox20 = New System.Windows.Forms.PictureBox()
         Me.TabControl1.SuspendLayout()
         Me.TabPage1.SuspendLayout()
         Me.TabPage2.SuspendLayout()
@@ -113,6 +114,7 @@ Partial Class Form9
         CType(Me.PictureBox11, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox12, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).BeginInit()
+        CType(Me.PictureBox20, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'Timer1
@@ -209,7 +211,7 @@ Partial Class Form9
         Me.Button8.Name = "Button8"
         Me.Button8.Size = New System.Drawing.Size(100, 28)
         Me.Button8.TabIndex = 32
-        Me.Button8.Text = "Sanrem"
+        Me.Button8.Text = "Blip"
         Me.Button8.UseVisualStyleBackColor = True
         '
         'Button7
@@ -292,6 +294,7 @@ Partial Class Form9
         '
         'Panel4
         '
+        Me.Panel4.Controls.Add(Me.PictureBox20)
         Me.Panel4.Controls.Add(Me.Label16)
         Me.Panel4.Controls.Add(Me.PictureBox19)
         Me.Panel4.Controls.Add(Me.Label11)
@@ -309,6 +312,20 @@ Partial Class Form9
         Me.Panel4.Name = "Panel4"
         Me.Panel4.Size = New System.Drawing.Size(991, 598)
         Me.Panel4.TabIndex = 28
+        '
+        'Label16
+        '
+        Me.Label16.BackColor = System.Drawing.Color.Black
+        Me.Label16.Font = New System.Drawing.Font("Franklin Gothic Book", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label16.ForeColor = System.Drawing.Color.White
+        Me.Label16.Location = New System.Drawing.Point(472, 141)
+        Me.Label16.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
+        Me.Label16.Name = "Label16"
+        Me.Label16.Size = New System.Drawing.Size(209, 22)
+        Me.Label16.TabIndex = 36
+        Me.Label16.Text = "Final Score"
+        Me.Label16.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        Me.Label16.Visible = False
         '
         'Label11
         '
@@ -788,19 +805,17 @@ Partial Class Form9
         Me.PictureBox9.TabIndex = 14
         Me.PictureBox9.TabStop = False
         '
-        'Label16
+        'PictureBox20
         '
-        Me.Label16.BackColor = System.Drawing.Color.Black
-        Me.Label16.Font = New System.Drawing.Font("Franklin Gothic Book", 10.2!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label16.ForeColor = System.Drawing.Color.White
-        Me.Label16.Location = New System.Drawing.Point(472, 141)
-        Me.Label16.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
-        Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(209, 22)
-        Me.Label16.TabIndex = 36
-        Me.Label16.Text = "Final Score"
-        Me.Label16.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
-        Me.Label16.Visible = False
+        Me.PictureBox20.Image = Global.WindowsApplication2.My.Resources.Resources.old_logo
+        Me.PictureBox20.Location = New System.Drawing.Point(475, 298)
+        Me.PictureBox20.Margin = New System.Windows.Forms.Padding(4)
+        Me.PictureBox20.Name = "PictureBox20"
+        Me.PictureBox20.Size = New System.Drawing.Size(205, 57)
+        Me.PictureBox20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
+        Me.PictureBox20.TabIndex = 37
+        Me.PictureBox20.TabStop = False
+        Me.PictureBox20.Visible = False
         '
         'Form9
         '
@@ -844,6 +859,7 @@ Partial Class Form9
         CType(Me.PictureBox11, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox12, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PictureBox9, System.ComponentModel.ISupportInitialize).EndInit()
+        CType(Me.PictureBox20, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 
     End Sub
@@ -909,4 +925,5 @@ Partial Class Form9
     Friend WithEvents Label11 As Label
     Friend WithEvents PictureBox19 As PictureBox
     Friend WithEvents Label16 As Label
+    Friend WithEvents PictureBox20 As PictureBox
 End Class

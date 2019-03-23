@@ -36,6 +36,7 @@ Public Class Form1
     Dim gameformat = VB.Left(Form3.ComboBox3.Text, 1)
     Private stopwatch As New Stopwatch
     Dim commercial As Integer
+    Dim orasmanipulator As String
 
 
     Private Sub Button6_Click(sender As Object, e As EventArgs) Handles Button6.Click
@@ -84,7 +85,6 @@ Public Class Form1
         Button3.Enabled = False
         Button5.Enabled = False
         Button6.Enabled = False
-        Button7.Enabled = False
 
         Label4.Text = AddZero(Form3.NumericUpDown3.Value) & ":" & AddZero(Form3.NumericUpDown4.Value)
         Form2.Label2.Text = Label4.Text
@@ -161,9 +161,59 @@ Public Class Form1
             music(“close myDevice”, Nothing, 0, 0)
             My.Computer.Audio.Play(My.Resources.Air_Horn, AudioPlayMode.Background)
 
+            Form9.Label12.Text = "Period"
+            Form9.Label13.ForeColor = Color.White
+            Form9.Label14.Text = "End of"
+            Form9.Label15.Text = ", please support and like our page at https://www.facebook.com/shohoq4268/"
+            Form9.Timer6.Stop()
+
+            Form9.Panel6.Visible = False
+
+            If orasmanipulator = "Yes" Then
+
+                If NumericUpDown7.Value = 0 Then
+
+                    Timer9.Stop()
+                    Timer1.Enabled = False
+                    stopwatch.Stop()
+                    stopwatch.Reset()
+
+                    mins = NumericUpDown7.Value
+                    milliseconds = NumericUpDown2.Value
+
+                    Form6.Label6.Text = milliseconds & ".00"
+                    Label4.Text = milliseconds & ".00"
+                    Form2.Label2.Text = Label4.Text
+
+                Else
+
+                    Timer1.Interval = 1000
+                    Timer9.Stop()
+                    stopwatch.Stop()
+                    stopwatch.Reset()
+                    Timer1.Enabled = False
+
+                    mins = NumericUpDown7.Value
+                    secs = NumericUpDown2.Value
+                    milliseconds = 60
+                    secs100 = 47
+
+                    Form6.Label6.Text = AddZero(mins) & ":" & AddZero(secs)
+                    Label4.Text = AddZero(mins) & ":" & AddZero(secs)
+                    Form2.Label2.Text = Label4.Text
+
+                End If
+
+                orasmanipulator = "No"
+
+            End If
+
+            Form9.Panel1.Visible = True
+            Form9.Panel2.Visible = True
+
         End If
 
-        If secs2 = 30 Then
+            If secs2 = 30 Then
 
             Dim FileName As String
             Dim a As Integer
@@ -175,7 +225,19 @@ Public Class Form1
             music(“open ” & FileName & ” alias myDevice”, Nothing, 0, 0)
             music(“play myDevice”, Nothing, 0, 0)
 
-            'My.Computer.Audio.Play("C:\Users\Admin\Desktop\Dexter_Stuffs\Images\SC30_1.wav")
+            Form9.Panel1.Visible = False
+            Form9.Panel2.Visible = False
+
+
+            Form9.Label12.Text = ""
+            Form9.Label13.ForeColor = Color.Black
+            Form9.Label14.Text = ""
+            Form9.Label15.Text = "Timeout, please support and like our page at https://www.facebook.com/shohoq4268/"
+            Form9.Timer6.Start()
+
+            Form9.Panel6.Visible = True
+
+
 
         End If
 
@@ -273,7 +335,6 @@ Ending:
         Button3.Enabled = False
         Button5.Enabled = False
         Button6.Enabled = False
-        Button7.Enabled = False
 
         Label4.Text = AddZero(Form3.NumericUpDown3.Value) & ":" & AddZero(Form3.NumericUpDown4.Value)
         Form2.Label2.Text = Label4.Text
@@ -349,6 +410,56 @@ Ending:
             music(“close myDevice”, Nothing, 0, 0)
             My.Computer.Audio.Play(My.Resources.Air_Horn, AudioPlayMode.Background)
 
+            Form9.Label12.Text = "Period"
+            Form9.Label13.ForeColor = Color.White
+            Form9.Label14.Text = "End of"
+            Form9.Label15.Text = ", please support and like our page at https://www.facebook.com/shohoq4268/"
+            Form9.Timer6.Stop()
+
+            Form9.Panel6.Visible = False
+
+            If orasmanipulator = "Yes" Then
+
+                If NumericUpDown7.Value = 0 Then
+
+                    Timer9.Stop()
+                    Timer1.Enabled = False
+                    stopwatch.Stop()
+                    stopwatch.Reset()
+
+                    mins = NumericUpDown7.Value
+                    milliseconds = NumericUpDown2.Value
+
+                    Form6.Label6.Text = milliseconds & ".00"
+                    Label4.Text = milliseconds & ".00"
+                    Form2.Label2.Text = Label4.Text
+
+                Else
+
+                    Timer1.Interval = 1000
+                    Timer9.Stop()
+                    stopwatch.Stop()
+                    stopwatch.Reset()
+                    Timer1.Enabled = False
+
+                    mins = NumericUpDown7.Value
+                    secs = NumericUpDown2.Value
+                    milliseconds = 60
+                    secs100 = 47
+
+                    Form6.Label6.Text = AddZero(mins) & ":" & AddZero(secs)
+                    Label4.Text = AddZero(mins) & ":" & AddZero(secs)
+                    Form2.Label2.Text = Label4.Text
+
+                End If
+
+                orasmanipulator = "No"
+
+            End If
+
+            Form9.Panel1.Visible = True
+            Form9.Panel2.Visible = True
+
         End If
 
         If secs3 = 30 Then
@@ -363,7 +474,17 @@ Ending:
             music(“open ” & FileName & ” alias myDevice”, Nothing, 0, 0)
             music(“play myDevice”, Nothing, 0, 0)
 
-            'My.Computer.Audio.Play("C:\Users\Admin\Desktop\Dexter_Stuffs\Images\SC30_2.wav")
+            Form9.Panel1.Visible = False
+            Form9.Panel2.Visible = False
+
+
+            Form9.Label12.Text = ""
+            Form9.Label13.ForeColor = Color.Black
+            Form9.Label14.Text = ""
+            Form9.Label15.Text = "Timeout, please support and like our page at https://www.facebook.com/shohoq4268/"
+            Form9.Timer6.Start()
+
+            Form9.Panel6.Visible = True
 
         End If
 
@@ -426,36 +547,44 @@ Ending:
 
     Private Sub Button7_Click(sender As Object, e As EventArgs) Handles Button7.Click
 
-        If NumericUpDown7.Value = 0 Then
+        orasmanipulator = InputBox("Do you want to alter time after a given timeout? Yes or No")
 
-            Timer9.Stop()
-            Timer1.Enabled = False
-            stopwatch.Stop()
-            stopwatch.Reset()
-
-            mins = NumericUpDown7.Value
-            milliseconds = NumericUpDown2.Value
-
-            Form6.Label6.Text = milliseconds & ".00"
-            Label4.Text = milliseconds & ".00"
-            Form2.Label2.Text = Label4.Text
+        If orasmanipulator = "Yes" Then
 
         Else
 
-            Timer1.Interval = 1000
-            Timer9.Stop()
-            stopwatch.Stop()
-            stopwatch.Reset()
-            Timer1.Enabled = False
+            If NumericUpDown7.Value = 0 Then
 
-            mins = NumericUpDown7.Value
-            secs = NumericUpDown2.Value
-            milliseconds = 60
-            secs100 = 47
+                Timer9.Stop()
+                Timer1.Enabled = False
+                stopwatch.Stop()
+                stopwatch.Reset()
 
-            Form6.Label6.Text = AddZero(mins) & ":" & AddZero(secs)
-            Label4.Text = AddZero(mins) & ":" & AddZero(secs)
-            Form2.Label2.Text = Label4.Text
+                mins = NumericUpDown7.Value
+                milliseconds = NumericUpDown2.Value
+
+                Form6.Label6.Text = milliseconds & ".00"
+                Label4.Text = milliseconds & ".00"
+                Form2.Label2.Text = Label4.Text
+
+            Else
+
+                Timer1.Interval = 1000
+                Timer9.Stop()
+                stopwatch.Stop()
+                stopwatch.Reset()
+                Timer1.Enabled = False
+
+                mins = NumericUpDown7.Value
+                secs = NumericUpDown2.Value
+                milliseconds = 60
+                secs100 = 47
+
+                Form6.Label6.Text = AddZero(mins) & ":" & AddZero(secs)
+                Label4.Text = AddZero(mins) & ":" & AddZero(secs)
+                Form2.Label2.Text = Label4.Text
+
+            End If
 
         End If
 
@@ -1350,6 +1479,36 @@ Ending:
 
         Form2.Label2.Text = Label4.Text
 
+        Form9.Label12.Text = "Period"
+        Form9.Label13.ForeColor = Color.White
+        Form9.Label14.Text = "End of"
+        Form9.Label15.Text = ", please support and like our page at https://www.facebook.com/shohoq4268/"
+        Form9.Timer6.Stop()
+
+        Form9.Panel6.Visible = False
+        Form9.Panel1.Visible = True
+        Form9.Panel2.Visible = True
+
+        If orasmanipulator = "Yes" Then
+
+            orasmanipulator = "No"
+
+        Else
+
+            If CheckBox1.Checked = True Then
+
+                CheckBox2.Checked = True
+
+            Else
+
+                CheckBox1.Checked = True
+
+            End If
+
+        End If
+
+
+
     End Sub
 
     Private Sub Timer9_Tick(sender As Object, e As EventArgs) Handles Timer9.Tick
@@ -2018,7 +2177,6 @@ Ending:
             Form2.Label2.Text = Label4.Text
 
         End If
-
 
     End Sub
 

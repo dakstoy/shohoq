@@ -79,14 +79,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SBO_App.exe" size="18508288">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SBO_App.exe" size="18581504">
       <assemblyIdentity name="SBO_App" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>UUTZQ54OeYgz95neA+k0651LGYAom2goWKQcECOqRXA=</dsig:DigestValue>
+        <dsig:DigestValue>W8eWfDsANnAOKfBer5rN0EnBvTkAcuhfyN0J42DU+Vc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
